@@ -293,56 +293,6 @@ Keys between 11 and 15 and Heroic raid drops Wyrm fragments.
 Keys 16 and above and Mythic raid drops Aspect fragments.
 You can EARN 150 fragments PER TYPE PER WEEK, with the cap increasing every week (similar to the Valor cap).
 
-
-FLIGHTSTONES
-Flightstones are the other currency you'll use to upgrade your gear. They come from pretty much any endgame activity.
-
-A 60% account wide discount is unlocked when you get a higher item level piece of gear in a slot.
-
-
-MORE INFO
-Here's a couple of helpful sheets and documents that have more info than I am willing to type about this system:
-
-Dratnos 10.1 Gear Systems Spreadsheet - All the information you could want about Crests and Flightstones.
-Larias's Raider's Survival Guide for 10.1 - Information about tier, Crests, upgrades, etc.
-USEFUL STUFF
-ADDONS
-This is not a definitive list of THINGS YOU NEED, but a list of addons/WeakAuras that I like and find useful.
-
-
-ADDON MANAGERS
-A BRIEF MESSAGE ABOUT ADDON MANAGERS
-As someone who values their privacy online, I feel like it's important that I mention the Overwolf client is BAD and all of its privacy options are OPT-OUT by default, instead of OPT-IN. I encourage you to use an open source addon manager like wowup.io or instawow. Just my two cents.
-
-TIMERS
-M+ Timer (WeakAura) - Mythic plus timer with a lot of bonus features, including auto-gossip/interact, MDT integration, and more!
-Angry Keystones - Another take on the keystone/mythic+ timer. Displays affix rotation schedule and current affixes as well as providing chest timers and kill count % ingame.
-iP Mythic Timer - A combo timer with a great deal of customization. Shows timer for +2 and +3, % per mob, total percent pulled, and more!
-DUNGEON INFORMATION/BOSS MODS
-Dragonflight Dungeons - Comprehensive alerts for trash and boss abilities. Covers things bossmods do not. Optionally offers simple verbal queues such as "stack, spread, dance, etc." Absolutely invaluable.
-LittleWigs - Requires BigWigs Boss Mods. A lightweight boss mod suite tailored for dungeons.
-KEYSTONE AND GROUP INFORMATION
-Mythic Dungeon Tools - Plan out routes, then use a shareable interactive map to make sure your group is on the same page.
-Raider.io Addon - Hover over players in the world, guild, etc and get their raider.io score. The addon comes with an updater client to automatically get people's scores from raider.io!
-Astral Keys - Shows keys for guild mates, Battle Net friends and alts.
-WEAKAURAS
-
-MECHANICAL WEAKAURAS
-M+ Interrupt Tracker - Lists and tracks your group's interrupts.
-GENERAL INFORMATION & UTILITY WEAKAURAS
-Raid Ability Timeline - Creates a bar that shows upcoming boss abilities visually. Requires Deadly Boss Mods or BigWigs.
-Dungeon RIO and Classes - Requires raider.io addon. Shows LFG group leader's raider.io score in group title, class icons under roles, and applicant raider.io score before their names.
-Mythic+ Score Tracker - At-a-glance view to see your Mythic+ score, and what dungeons will most improve your score.
-STATS, TOOLS, AND GUIDES
-raider.io - Raider.io has all kinds of tools including character specific M+ tracking, successful run comp tracking, and ranks for m+ dungeons. Their addon is probably the most useful group building/vetting addon you'll find as it uses their scoring system to show you how experienced players are.
-Keystone Heroes - Analyze your logged keystone runs to see where you can improve.
-Questionably Epic - Easy-to-digest dungeon guides and an addon that provides tips and strategy reminders throughout dungeons. Especially useful if you play druid or monk.
-M+ Subcreation - Analyzes raider.io to determine the difficulty of dungeons with certain affix combos, as well as other statistics.
-DISCORDS AND GROUP FINDING
-WoW Made Easy - Helping each other get KSM in a helpful, safe, non-toxic environment. Give this Discord a shot if you are turned off by the Warcraft playerbase at large, or feel anxious joining/applying to groups in group finder. US only. Official website.
-Mythic+ Friends Discord - The largest Mythic+ Discord server aimed at helping players form groups and teaching new players about mythic plus.
-No Pressure - Inspired by Wow Made Easy, No Pressure is a large EU community for finding non-toxic, stress-free groups to do content at every difficult level. Official website.
-
 Dein Name lautet: Jpmdcbot
 Der Name Dieses Streams heißt: Jpmdc
 Der Name des Streamers ist: Jpmdc
