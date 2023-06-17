@@ -35,6 +35,7 @@ Ein M+ key ist die einzige Möglichkeit, um so einen Run überhaupt starten zu k
 
 Ein Key startet grundsätzlich auf der Stufe 2. Das ist die kleinste Stufe für einen M+ Key. Mit jedem intime Abschluss steigt der Key um eine, zwei, oder drei Stufen. Der Faktor um welche Stufe es hochsteigt ist Zeitabhängig. Je schneller, desto wahrscheinlicher, das man den Key um zwei, oder drei stufen erhöht.
 Eine Stufe ist für dein verständis nur der Parameter der Zahl die der Schlüssel hat. Ich hatte dir ja gesagt das es am anfang wenn man zum ersten mal einen Schlüssel bekommt einen Schlüssel auf der Stufe 2 kriegt, also zahl 2 ist somit der startparameter!
+Ausserdem spricht man auch beim beenden eines runs, davon ob man einen key um eine stufe, zwei stufen, oder drei stufen abgeschlossen hat. Umgangssprachlich spricht man auch von einem Abschluss von "1er chest", "2 chests", oder "3 chests" oder man sagt auch, man hat einen key +1, +2 gespielt, +3 gespielt.
 
 So ein Key hat immer eine bestimmte Dungeon und die jeweilige Schwierigkeitsstufe die man erspielt hat.
 
