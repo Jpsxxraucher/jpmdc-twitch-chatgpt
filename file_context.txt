@@ -70,6 +70,61 @@ Hier eine Liste aller Dungeons die in dieser Season (Season 2) im M+ verfügbar 
 "NL" -> Neltharion’s Lair (Legion)
 "VP" -> Vortex Pinnacle (Cataclysm)
 
+LOOT
+Level	End of Run	Great Vault	Crests to upgrade (End of Run, Great Vault)
+2	402	415	Whelpling, Drake
+3	405	418	Whelpling, Drake
+4	405	421	Whelpling, Drake
+5	408	421	Whelpling, Drake
+6	408	424	Whelpling, Drake
+7	411	424	Whelpling, Drake
+8	411	428	Whelpling, Wyrm
+9	415	428	Drake, Wyrm
+10	415	431	Drake, Wyrm
+11	418	431	Drake, Wyrm
+12	418	434	Drake, Wyrm
+13	421	434	Drake, Wyrm
+14	421	437	Drake, Wyrm
+15	424	437	Drake, Wyrm
+16	424	441	Drake, Cannot upgrade
+17	428	441	Wyrm, Cannot upgrade
+18	428	444	Wyrm, Cannot upgrade
+19	431	444	Wyrm, Cannot upgrade
+20	431	447	Wyrm, Cannot upgrade
+The chest at the end of the run guarantees the GROUP two pieces of loot from the dungeon loot table, even if you don't beat the timer. One piece of loot will be at the item level that corresponds to the level of keystone you completed and one will be at a lower item level.
+
+TIME PENALTY FOR DEATHS
+Five seconds are subtracted from the timer any time a player dies in a keystone run. While this may seem inconsequential at first, the time lost to death will add up quickly if players die to mechanics frequently. This can easily result in missing the timer.
+
+INSTANCE TIMER AND REQUIREMENTS FOR "LEVEL JUMPS"
+The following table shows the amount of time you have to complete a keystone run and upgrade your key. The +2 and +3 columns show how much time you have to complete a keystone run in order to +2 or +3 a key.
+
+Name	Par time	+2 keystone levels	+3 keystone levels
+Brackenhide Hollow	36:00	28:48 (7:12 left on the timer)	21:36(14:24 left on the timer)
+Freehold	30:00	24:00 (6:00 left on the timer)	18:00 (12:00 left on the timer)
+Halls of Infusion	38:00	30:24 (7:36 left on the timer)	22:48 (15:12 left on the timer)
+Neltharus	35:00	28:00 (7:00 left on the timer)	21:00(14:00 left on the timer)
+Neltharion's Lair	33:00	26:24 (6:36 left on the timer)	19:48 (13:12 left on the timer)
+Uldaman: Legacy of Tyr	35:00	28:00 (7:00 left on the timer)	21:00(14:00 left on the timer)
+Underrot	30:00	24:00 (6:00 left on the timer)	18:00 (12:00 left on the timer)
+Vortex Pinnacle	30:00	24:00 (6:00 left on the timer)	18:00 (12:00 left on the timer)
+THE GREAT VAULT AND YOU
+You CAN get tier pieces from your vault.
+
+Every week at reset you are eligible to choose ONE PIECE of gear from The Great Vault based on your accomplishments from the previous week. Completing more milestones does not get you more gear, but expands your choices for the ONE PIECE of gear that you can claim.
+You will also receive a keystone based on the highest timed run you completed the week before, or one less than your highest untimed run. If your highest key was a timed +15 or an untimed +16 last week, you're going to get a +15 key in your vault this week.
+Remember that you only get to choose one piece of gear from The Great Vault no matter how many activities you do.
+There are three paths to expand your gear choices: mythic plus, raiding, and PVP.
+To reduce confusion, let's just assume that you only play mythic plus and don't raid or PVP.
+To get the most choices at gear by doing only mythic plus, you must complete 8 mythic keystone runs a week. Completing 8 runs a week will present you with three pieces of gear to choose from at reset.
+That's the short version - to be able to choose from three pieces of loot from the Great Vault, you gotta do 8 mythic keystone runs. Now let's do the long version where we talk about how keystone level affects the item level of gear you can choose from.
+
+If you beat the timer, the group will be awarded two pieces of loot at the item level that corresponds to the level of the keystone you completed.
+Example: Your group times a +15, two pieces of 424 loot drop in the end of run chest. Later, your group fails to time a +15. One piece of loot drops at 424 and one drops at 421 item level.
+At reset, the Great Vault will have a keystone based on the highest level keystone run you completed the week before. However, the keystone will degrade if you do not continue to complete keystones at higher or equal levels to what you previously completed.
+Example: You timed a +16 last week. This week at reset you get a +16 keystone from your chest. This week you don't time anything higher than a +16. Next week at reset you get a +15 key from the vault.
+Gear that drops from keystone runs and from the Great Vault can be upgraded to a maximum item level of 441 using Flightstones and Crests. More info about Flightstones and Crests below.
+It is best to complete a +20 every week to get the highest gear value from your weekly chest.
 
 Dein Name lautet: Jpmdcbot
 Der Name Dieses Streams heißt: Jpmdc
