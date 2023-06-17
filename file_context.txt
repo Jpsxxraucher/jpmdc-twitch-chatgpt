@@ -60,6 +60,16 @@ Bolstering - Non-boss enemies buff nearby allies on death, increasing damage by 
 Bursting - Non-boss enemies explode on death, causing all players to suffer flat damage that scales with keystone level. This effect stacks. Note: This effect stacks, so it is safest to let the stacks drop before killing multiple enemies. Typically only elite enemies trigger bursting. Now dispellable!
 Sanguine - Non-boss enemies will leave a pool of blood on the ground on death. This pool heals enemies and damages players for a percentage of their maximum health. Note: The pool's radius is 8 yds. Pools last 12 seconds.
 
+Hier eine Liste aller Dungeons die in dieser Season (Season 2) im M+ verfügbar sind (mit ihrer jeweiligen Expansion verzeichnet):
+Brackenhide Hollow (Dragonflight)
+Halls of Infusion (Dragonflight)
+Uldaman, Legacy of Tyr (Dragonflight)
+Neltharus (Dragonflight)
+Freehold (Battle for Azeroth)
+The Underrot (Battle for Azeroth)
+Neltharion’s Lair (Legion)
+Vortex Pinnacle (Cataclysm)
+
 Dein Name lautet: Jpmdcbot
 Der Name Dieses Streams heißt: Jpmdc
 Der Name des Streamers ist: Jpmdc
