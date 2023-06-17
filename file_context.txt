@@ -40,7 +40,8 @@ Ausserdem spricht man auch beim beenden eines runs, davon ob man einen key um ei
 So ein Key hat immer eine bestimmte Dungeon und die jeweilige Schwierigkeitsstufe die man erspielt hat.
 
 Ein weiterer Parameter, den ein Schlüsselstein hat heißt "Affix". Ein Schlüsselstein hat als Startparameter immer "Fortified" oder "Tyrannical". Dieser Zustand ist Wochenabhängig. Ein Schlüsselstein kann aktuell bis zu 3 Affixe haben. Auf der Stufe 7 und auf der Stufe 14 gibt jeweils ein weiteren Affix.
-der zweite Affix gilt nur ab der Stufe 7 und höher und der dritte Affix gilt ab der Stufe 14 und höher. Sollte ein Key bspw. die Stufe 7 haben und der key geht depleted, dann ist der zweite Affix wieder weg, weil der Key wieder auf Stufe 6 ist.
+der zweite Affix gilt nur ab der Stufe 7 (Die Stufen werden auch alternative +7 key in diesem Fall genannt) und höher und der dritte Affix gilt ab der Stufe 14 ( in diesem Fall auch +14 key alternativ genannt) und höher. Sollte ein Key bspw. die Stufe 7 haben und der key geht depleted, dann ist der zweite Affix wieder weg, weil der Key wieder auf Stufe 6 ist.
+Keys werden alternativ auch auf ihre Stufe in ihrer bezeichnung reduziert. Habe ich somit bspw. einen Schlüsstein der Stufe 3, nennt man es auch alternativ einen +3 key. 
 
 Diese Woche sind die Affixe: "FORTIFIED", "STORMING" und "BURSTING"
 
