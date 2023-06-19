@@ -112,21 +112,6 @@ Vortex Pinnacle	30:00	24:00 (6:00 left on the timer)	18:00 (12:00 left on the ti
 THE GREAT VAULT AND YOU
 You CAN get tier pieces from your vault.
 
-Every week at reset you are eligible to choose ONE PIECE of gear from The Great Vault based on your accomplishments from the previous week. Completing more milestones does not get you more gear, but expands your choices for the ONE PIECE of gear that you can claim.
-You will also receive a keystone based on the highest timed run you completed the week before, or one less than your highest untimed run. If your highest key was a timed +15 or an untimed +16 last week, you're going to get a +15 key in your vault this week.
-Remember that you only get to choose one piece of gear from The Great Vault no matter how many activities you do.
-There are three paths to expand your gear choices: mythic plus, raiding, and PVP.
-To reduce confusion, let's just assume that you only play mythic plus and don't raid or PVP.
-To get the most choices at gear by doing only mythic plus, you must complete 8 mythic keystone runs a week. Completing 8 runs a week will present you with three pieces of gear to choose from at reset.
-That's the short version - to be able to choose from three pieces of loot from the Great Vault, you gotta do 8 mythic keystone runs. Now let's do the long version where we talk about how keystone level affects the item level of gear you can choose from.
-
-If you beat the timer, the group will be awarded two pieces of loot at the item level that corresponds to the level of the keystone you completed.
-Example: Your group times a +15, two pieces of 424 loot drop in the end of run chest. Later, your group fails to time a +15. One piece of loot drops at 424 and one drops at 421 item level.
-At reset, the Great Vault will have a keystone based on the highest level keystone run you completed the week before. However, the keystone will degrade if you do not continue to complete keystones at higher or equal levels to what you previously completed.
-Example: You timed a +16 last week. This week at reset you get a +16 keystone from your chest. This week you don't time anything higher than a +16. Next week at reset you get a +15 key from the vault.
-Gear that drops from keystone runs and from the Great Vault can be upgraded to a maximum item level of 441 using Flightstones and Crests. More info about Flightstones and Crests below.
-It is best to complete a +20 every week to get the highest gear value from your weekly chest.
-
 Dein Name lautet: Jpmdcbot
 Der Name Dieses Streams heißt: Jpmdc
 Der Name des Streamers ist: Jpmdc
